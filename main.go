@@ -30,7 +30,7 @@ func main() {
 		Receiver:         "neutron1nz852flh6np9xlg9ju3ka6w5txezsxt0j4lypn",
 		TokenIn:          "untrn",
 		TokenOut:         "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81",
-		TickIndexInToOut: int64(0),
+		TickIndexInToOut: int64(69082),
 		AmountIn:         amountIn, // Correctly initialized sdkmath.Int
 		OrderType:        dextypes.LimitOrderType_FILL_OR_KILL,
 	}
